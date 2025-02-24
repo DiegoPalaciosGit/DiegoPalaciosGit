@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m a physics student with a strong interest in theoretical physics, field theory, and quantum theory. Currently, I’m working on a university research project where my advisors and I am developing a 5-dimensional theory and analyzing its implications in Yang-Mills theory.
+I’m a physics student with a strong interest in theoretical physics, field theory, and quantum theory. Currently, I’m working on a university research project where my advisors and I are developing a 5-dimensional theory and analyzing its implications in Yang-Mills theory.
 
 Recently, I’ve started exploring data science to broaden my skill set and pursue a career in this growing field. I’m eager to merge my analytical background in physics with the practical applications of data science. This repository will serve as a space to showcase my journey, and I’ll be sharing my portfolio as soon as it’s ready. Stay tuned! 🚀
 <!--
